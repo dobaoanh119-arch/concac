@@ -1,0 +1,8 @@
+name: ClientChecker
+main: me.yourname.clientchecker.ClientChecker
+version: 1.0
+api-version: 1.19
+commands:
+  client:
+    description: Xem client của người chơi
+    usage: /client <player>
